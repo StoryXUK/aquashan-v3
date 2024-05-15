@@ -1,7 +1,7 @@
 /* ===================================================================
     
     Author          : Valid Theme
-    Template Name   : Metize - Startup & SaaS Template
+    Template Name   : Aquashan
     Version         : 1.0
     
 * ================================================================= */
